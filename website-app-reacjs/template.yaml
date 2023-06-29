@@ -43,7 +43,7 @@ spec:
       name: Fetch Template
       action: fetch:template
       input:
-        url: https://github.com/manmohanp/app-scaffolds/tree/main/website-app-reacjs
+        url: https://github.com/niteshbansal1982/app-scaffolds/tree/main/website-app-reacjs
         values:
           name: ${{ parameters.name }}
 
